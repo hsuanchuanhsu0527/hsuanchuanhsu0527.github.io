@@ -24,13 +24,13 @@ repository               : "hsuanchuanhsu0527/hsuanchuanhsu0527.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "徐萱娟"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "数字营销专业学生"
   location         : "南京"
-  employer         : "Nanjing University"
+  employer         : "南京大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "circle3527@outlook.com" 
 
   # Academic websites
   academia         : # URL

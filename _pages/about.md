@@ -21,6 +21,11 @@ redirect_from:
 
   广告学，本科
 
+其他资讯
+---
+MBTI：ENFP
+
+
 
 
 

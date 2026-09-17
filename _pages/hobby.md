@@ -14,6 +14,7 @@ author_profile: true
 ## Travel & Photography
 
 喜欢旅行，也喜欢用照片记录不同城市的风景、建筑和生活。
+<img src="/images/travel1.png" alt="Travel & Photography">
 
 ## Movies & Music
 
